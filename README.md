@@ -1,16 +1,27 @@
-## Hi there 👋
+## Curtis Summers
 
-<!--
-**csummers/csummers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- deeply technical software engineer
+- founder (and the mentality that goes with it!)
+- builder of happy and productive engineering teams
+- builder of robust and scalable systems
+- builder of high quality products
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- founder at Hot Dev [hot.dev](https://hot.dev), an open-source AI workflow platform written in Rust
+- author of HugSQL [hugsql.org](https://hugsql.org), a popular SQL library for Clojure
+- product-minded: can zoom in and out across technical and business strata
+- full stack experience across infrastructure, backend, and frontend
+- passionate optimism guides my problem-solving (we will figure it out!)
+
+---
+
+*I can help you build great products.*
+
+I especially enjoy early-stage startups and going from 0 → 1.
+
+Let's connect:
+
+- [https://www.linkedin.com/in/curtissummers/](https://www.linkedin.com/in/curtissummers/)
+- [https://x.com/curtissummers](https://x.com/curtissummers)
+
