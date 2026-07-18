@@ -4,7 +4,7 @@
 - founder (and the mentality that goes with it!)
 - builder of happy and productive engineering teams
 - builder of robust and scalable systems
-- builder of high quality products
+- builder and shipper of valuable, high quality products
 
 ---
 
